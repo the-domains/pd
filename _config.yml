@@ -1,0 +1,28 @@
+name: PD
+favicon: null
+layout_spectrum: 0.5652250482235104
+typography_spectrum: 0.3818386625498533
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.44568762136623263
+  lightness: 0.9935499709099531
+  saturation: 0.18176839035004377
+  rhythmicContrast: 0.6267563360743225
+purpose: []
